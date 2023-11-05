@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Vue/React/Node.js**
 
-- 📫 How to reach me **lynanbreeze@gmail.com**
+- 📫 How to reach me **sires-list0h@icloud.com**
 
-- 📄 Know about my experiences [https://lynan.cn/resume](https://lynan.cn/resume)
+- 📄 Know about my experiences [https://lynan.cn/about/](https://lynan.cn/about/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
