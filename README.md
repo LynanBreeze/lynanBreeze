@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lynan</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 📝 I regularly write articles on [https://lynan.cn](https://lynan.cn)
 
 - 💬 Ask me about **Vue/React/Node.js**
