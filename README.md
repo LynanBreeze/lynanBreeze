@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Vue/React/Node.js**
 
-- 📫 How to reach me **sires-list0h@icloud.com**
+- 📫 How to reach me **me@lynan.cn**
 
 - 📄 Know about my experiences [https://lynan.cn/about/](https://lynan.cn/about/) 
 
