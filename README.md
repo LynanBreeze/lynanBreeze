@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lynan</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 📝 I regularly write articles on [https://lynan.cn](https://lynan.cn)
+- 📝 I regularly write articles on [https://thelynan.com](https://thelynan.com)
 
 - 💬 Ask me about **Vue/React/Node.js**
 
 - 📫 How to reach me **me@lynan.cn**
 
-- 📄 Know about my experiences [https://lynan.cn/about/](https://lynan.cn/about/) 
+- 📄 Know about my experiences [https://thelynan.com/about/](https://thelynan.com/about/) 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
